@@ -6,4 +6,6 @@ The repository features:
 * A checkpoint from a trained model
 
 
-For a related notebook, with a model trained on a real dataset (i.e. building facades), see [here](https://www.kaggle.com/code/aurioldegbelo/2025-dm-facades).
+For a related notebook, with a model trained on a real dataset (i.e. building facades), see [here](https://www.kaggle.com/code/aurioldegbelo/2025-diffusion-model-for-facades).
+
+
