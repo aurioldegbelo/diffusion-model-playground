@@ -6,6 +6,8 @@ The repository features:
 * A checkpoint from a trained model (diff_model_original.pt)
 
 
-For a related notebook, with a model trained on a real dataset (i.e. building facades), see [here](https://www.kaggle.com/code/aurioldegbelo/2025-diffusion-model-for-facades).
+For a related notebook, with a model trained on a real dataset (i.e. building facades), see [here](https://www.kaggle.com/code/aurioldegbelo/2025-diffusion-model-for-building-facades).
+
+
 
 
